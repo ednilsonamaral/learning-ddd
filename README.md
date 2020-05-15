@@ -1,6 +1,6 @@
-# DDD - Driver Driven Design
+# DDD - Domain Driven Design
 
-Domain Driven Design signifca Projeto Orientado à Domínio. É uma filosofia de desenvolvimento que foi divulgada por Eric Evans em 2003.
+Domain Driven Design significa Projeto Orientado à Domínio. É uma filosofia de desenvolvimento que foi divulgada por Eric Evans em 2003.
 
 > Ele percebeu que um conjunto de boas práticas de desenvolvimento, trabalho em equipe e estratégias de negócio podem contribuir para que um projeto complexo seja bem sucedido.
 
